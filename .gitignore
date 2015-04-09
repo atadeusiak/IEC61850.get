@@ -1,0 +1,12 @@
+*.pdb
+src/Debug/IEC61850.get.exe
+*.ilk
+src/IEC61850.get.sdf
+*.suo
+*.tlog
+src/IEC61850.get/Release/IEC61850.get.obj
+src/IEC61850.get/Release/IEC61850.get.lastbuildstate
+*.log
+src/Release/IEC61850.get.exe
+*.obj
+src/IEC61850.get.opensdf
